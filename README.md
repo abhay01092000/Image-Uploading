@@ -1,1 +1,1 @@
-# Image-Uploding
+# Image-Uploading
